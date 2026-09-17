@@ -17,9 +17,7 @@ Before running the script, ensure you have the following installed and prepared:
 
    - pyserial (recommended only if you do not have a standard modem adapter connected to your PC/laptop)
 
-this space will be empty and also i write here so the how to run goes down a bit
-
-
+ㅤㅤㅤㅤㅤ
 
 - HOW TO RUN :
 
