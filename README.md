@@ -11,15 +11,14 @@ Before running the script, ensure you have the following installed and prepared:
 
    - COSMOTE Connect 3G (should be in the releases tab)
 
-   - Modem Adapter (e.g., compatible TP-Link USB/wireless adapter idk)
+   - Modem Adapter (e.g., compatible Huawei USB/wireless adapter, example: Huawei E171)
 
    - Frida (Optional; strictly required only if you plan to modify or patch the source scripts)
 
    - pyserial (recommended only if you do not have a standard modem adapter connected to your PC/laptop)
 
 ㅤㅤㅤㅤㅤ
-
-- HOW TO RUN :
+# HOW TO RUN :
 
 - Make sure you have COSMOTE Connect 3G installed.
 
