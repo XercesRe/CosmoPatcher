@@ -1,4 +1,4 @@
-Cosmote3GCPatcher aka (CosmoPatcher)
+# Cosmote3GCPatcher aka (CosmoPatcher)
 
 Cosmote3GCPatcher is a utility designed to patch the COSMOTE Connect 3G application, allowing you to route your connection through standard Wi-Fi instead of relying on COSMOTE's discontinued servers.
 
