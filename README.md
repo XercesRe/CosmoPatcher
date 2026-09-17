@@ -2,7 +2,7 @@ Cosmote3GCPatcher aka (CosmoPatcher)
 
 Cosmote3GCPatcher is a utility designed to patch the COSMOTE Connect 3G application, allowing you to route your connection through standard Wi-Fi instead of relying on COSMOTE's discontinued servers.
 
-   - [!NOTE]
+   - [**NOTE!**]
     Work in Progress (WIP): This tool currently only supports the Romanian version of COSMOTE Connect 3G. Support for Greek modem versions will be added in a future update once hardware is acquired.
 
 Before running the script, ensure you have the following installed and prepared:
