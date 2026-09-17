@@ -31,3 +31,5 @@ Before running the script, ensure you have the following installed and prepared:
 - Open COSMOTE commect 3G and click connect.
 
 - Pray it connects.
+
+ALL CREDITS GO TO - XercexRe aka (gulugulucanta) AND STHEHEN
