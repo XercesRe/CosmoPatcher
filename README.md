@@ -10,3 +10,9 @@ The things needed for this thing to run:
 NOTE: this is for Romanian version of COSMOTE Connect 3G only! (for now)
 This project will not work on the Greek version of modems (P.S it will be made when i get a Greek modem)
 
+
+How to run this program?
+ - Install all the files
+ - Start the pre-init.bat file (as shown in the file list)
+ - then type any script to begin (init.py is for the main program, and tester.py is for the beta)
+   
