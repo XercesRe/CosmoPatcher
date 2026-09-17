@@ -5,9 +5,7 @@ Cosmote3GCPatcher is a utility designed to patch the COSMOTE Connect 3G applicat
    - [!NOTE]
     Work in Progress (WIP): This tool currently only supports the Romanian version of COSMOTE Connect 3G. Support for Greek modem versions will be added in a future update once hardware is acquired.
 
-Prerequisites
-
-Before running the patcher, ensure you have the following installed and prepared:
+Before running the script, ensure you have the following installed and prepared:
 
    - Python (Latest stable version i think idk)
 
@@ -18,6 +16,8 @@ Before running the patcher, ensure you have the following installed and prepared
    - Frida (Optional; strictly required only if you plan to modify or patch the source scripts)
 
    - pyserial (recommended only if you do not have a standard modem adapter connected to your PC/laptop)
+
+
 
 - HOW TO RUN :
 
