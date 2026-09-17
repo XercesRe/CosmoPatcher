@@ -19,19 +19,16 @@ Before running the patcher, ensure you have the following installed and prepared
 
    - pyserial (recommended only if you do not have a standard modem adapter connected to your PC/laptop)
 
-How to Run
+- HOW TO RUN :
 
-Make sure you have COSMOTE Connect 3G installed.
+- Make sure you have COSMOTE Connect 3G installed.
 
+- Get and install all the project files on your pc.
 
-Get and install all the project files on your machine.
+- Run the pre-init.bat file
 
-Initialize Environment
+- Open your terminal and type either init.py or tester.py (both do almost the same shit but tester has some debug stuff)
 
-Run the pre-init.bat file
+- Open COSMOTE commect 3G and click connect.
 
-Open your terminal and type either init.py or tester.py (both do almost the same shit but tester has some debug stuff)
-
-Open COSMOTE commect 3G and click connect.
-
-Pray it connects.
+- Pray it connects.
