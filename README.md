@@ -1,5 +1,5 @@
-# Cosmote3GCPatcher.
-Cosmote3GCPatcher (a.k.a CosmoPatcher)is a COSMOTE Connect 3G patcher that lets you use WiFi instead of Cosmote's dead servers. (WIP)
+# Cosmote3GCPatcher
+Cosmote3GCPatcher (a.k.a CosmoPatcher) is a COSMOTE Connect 3G patcher that lets you use WiFi instead of Cosmote's dead servers. (WIP)
 
 The things needed for this thing to run:
  - Python
