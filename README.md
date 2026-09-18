@@ -23,15 +23,15 @@ Before running the script, ensure you have the following installed and prepared:
 
 - Make sure you have COSMOTE Connect 3G installed.
 
-- Get and install all the project files on your pc.
+- Install all the project files on your pc.
 
-- add the Python files inside of the COSMOTE Connect 3G folder (C:\Program Files (x86)\COSMOTE Connect 3G)
+- Add the Python files inside of the COSMOTE Connect 3G folder (C:\Program Files (x86)\COSMOTE Connect 3G)
 
 - Run the pre-init.bat file
 
-- Open your terminal and type either init.py or tester.py (both do almost the same shit but tester has some debug stuff)
+- Open your terminal and type either init.py or tester.py (both do almost the same thing but tester has some debug stuff)
 
-- Open COSMOTE commect 3G and click connect.
+- Open COSMOTE Connect 3G and click Connect (Or Redial if you connected before).
 
 - Pray it connects.
 
@@ -41,4 +41,7 @@ CosmoPatcher (a.k.a Cosmote3GCPatcher) essentially revives old hardware and mode
 
 Since the original servers, for the COSMOTE Connect 3G network are no longer working, old modems cannot connect on their own. CosmoPatcher fixes this by sending your data through Wi‑Fi, avoiding the dead COSMOTE network and letting your system work again.
 
-ALL CREDITS GO TO - XercexRe aka (gulugulucanta) AND ST3HEN
+# Credits
+```
+XercesRe (main developer)
+ST3HEN (main developer #2) 
