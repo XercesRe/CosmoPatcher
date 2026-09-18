@@ -24,6 +24,8 @@ Before running the script, ensure you have the following installed and prepared:
 
 - Get and install all the project files on your pc.
 
+- add the Python files inside of the COSMOTE Connect 3G folder (C:\Program Files (x86)\COSMOTE Connect 3G)
+
 - Run the pre-init.bat file
 
 - Open your terminal and type either init.py or tester.py (both do almost the same shit but tester has some debug stuff)
@@ -32,4 +34,4 @@ Before running the script, ensure you have the following installed and prepared:
 
 - Pray it connects.
 
-ALL CREDITS GO TO - XercexRe aka (gulugulucanta) AND STHEHEN
+ALL CREDITS GO TO - XercexRe aka (gulugulucanta) AND ST3HEN
