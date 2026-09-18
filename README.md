@@ -11,7 +11,8 @@ Before running the script, ensure you have the following installed and prepared:
 
    - COSMOTE Connect 3G (should be in the releases tab)
 
-   - Modem Adapter (e.g., compatible Huawei/ZTE USB/wireless adapter, example: Huawei E171)
+   - Modem Adapter (e.g., compatible Huawei/ZTE USB or wireless adapter, example: Huawei E171, ZTE MF637, Cosmote Connect MF60 etc.)
+   - (P.S, patch for Cosmote Connect MF60 will be made once the hardware is obtained)
 
    - Frida (Optional; strictly required only if you plan to modify or patch the source scripts)
 
@@ -33,5 +34,11 @@ Before running the script, ensure you have the following installed and prepared:
 - Open COSMOTE commect 3G and click connect.
 
 - Pray it connects.
+
+
+# What does this do exactly? (If you didn't understand)
+CosmoPatcher (a.k.a Cosmote3GCPatcher) essentially revives old hardware and modems.
+
+Since the original servers, for the COSMOTE Connect 3G network are no longer working, old modems cannot connect on their own. CosmoPatcher fixes this by sending your data through Wi‑Fi, avoiding the dead COSMOTE network and letting your system work again.
 
 ALL CREDITS GO TO - XercexRe aka (gulugulucanta) AND ST3HEN
