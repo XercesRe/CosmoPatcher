@@ -11,7 +11,7 @@ Before running the script, ensure you have the following installed and prepared:
 
    - COSMOTE Connect 3G (should be in the releases tab)
 
-   - Modem Adapter (e.g., compatible Huawei/ZTE USB or wireless adapter, example: Huawei E171, ZTE MF637, Cosmote Connect MF60 etc.)
+   - Modem Adapter (e.g., compatible Huawei/ZTE USB or wireless adapter, example: Huawei E171, E173, ZTE MF637, Cosmote Connect MF60 etc.)
    - (P.S, patch for Cosmote Connect MF60 will be made once the hardware is obtained)
 
    - Frida (Optional; strictly required only if you plan to modify or patch the source scripts)
