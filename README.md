@@ -21,7 +21,7 @@ Before running the script, ensure you have the following installed and prepared:
 ㅤㅤㅤㅤㅤ
 # HOW TO RUN :
 
-- Make sure you have COSMOTE Connect 3G installed.
+- Make sure you have COSMOTE Connect 3G installed (version doesn't matter).
 
 - Install all the project files on your pc.
 
@@ -44,4 +44,10 @@ Since the original servers, for the COSMOTE Connect 3G network are no longer wor
 # Credits
 ```
 XercesRe (main developer)
-ST3HEN (main developer #2) 
+ST3HEN (main developer #2)
+
+```
+# Notes
+ - My COSMOTE Connect 3G client is version 11.301.05.04.709, the software may vary for other versions like v16.001 – v21.003.
+ - It *might* not work with ZTE USB's since the software is meant for Huawei USB's, but if it won't work with ZTE devices, i will note them for future updating
+ - As shown above this note, again, for versions v2.7.2.89 (Birdstep) and/or BD_COSMOTEMF60V1.0.0B01 (WebUI), it *will* not work, but v11.1xx and above works.
