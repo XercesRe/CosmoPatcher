@@ -59,6 +59,8 @@ ST3HEN (main developer #2)
 - *Fix: Make sure you have COSMOTE Connect 3G open, If it is, try restarting COSMOTE Connect 3G and after it's restarted, type in "init.py" again.*
  - The script won't exit and it's stuck on "[+] Stopping bridge.". what do i do?
 - *Fix: Force close the command prompt by going into Task Manager (via Ctrl+Shift+Esc or typing taskmgr in taskbar) and end task the current prompt. Re-open the "pre-init.bat" and run whichever script you ran last time. (e.g tester.py)*
+- The Python file will not work because a JS file is missing, what do i do?
+  *Note*: I will add the JavaScript file to the files list, i will make an update for it.
 
 # Explanations
 *What does for example the version 11.301.05.04.709 mean really??*
