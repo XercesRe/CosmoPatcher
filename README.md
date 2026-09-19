@@ -7,12 +7,12 @@ Cosmote3GCPatcher is a utility designed to patch the COSMOTE Connect 3G applicat
 
 Before running the script, ensure you have the following installed and prepared:
 
-   - Python (Latest stable version i think idk)
+   - Python (minimum version 3.10)
 
-   - COSMOTE Connect 3G (should be in the releases tab)
+   - COSMOTE Connect 3G (link should be in the releases tab)
 
-   - Modem Adapter (e.g., compatible Huawei/ZTE USB or wireless adapter, example: Huawei E171, E173, ZTE MF637, Cosmote Connect MF60 etc.)
-   - (P.S, patch for Cosmote Connect MF60 will be made once the hardware is obtained)
+   - Modem Adapter (e.g., compatible Huawei/ZTE USB or wireless adapter, example: Huawei E171, E173, ZTE MF637*, Cosmote Connect MF60* etc.)
+   - (P.S, patch for Cosmote Connect MF60 and ZTE sticks will be made once the hardware is obtained)
 
    - Frida (Optional; strictly required only if you plan to modify or patch the source scripts)
 
@@ -49,7 +49,23 @@ ST3HEN (main developer #2)
 ```
 # Notes
  - My COSMOTE Connect 3G client is version 11.301.05.04.709, the software may vary for other versions like v16.001 – v21.003.
- - It *will* not work with ZTE USB's since the software is meant for Huawei USB's, but if it won't work with ZTE devices, i will note them for future updating
+ - It *will* not work with ZTE USB's since the software is meant for Huawei USB's, i will note them for future updating
  - As shown above this note, again, for versions v2.7.2.89 (Birdstep) and/or BD_COSMOTEMF60V1.0.0B01 (WebUI), it *will* not work, but v11.1xx and above works.
  - I am not sure if this software will work below Windows 10 (e.g. Windows 8.1, Windows 7, Windows XP) but again, updates will be happening for older versions too
+ - The * you saw at the pre-install category, it means it might/will not work properly in this state since it is still a WIP patcher.
+
+# Troubleshooting
+ - Why isn't init.py loading correctly?
+- *Fix: Make sure you have COSMOTE Connect 3G open, If it is, try restarting COSMOTE Connect 3G and after it's restarted, type in "init.py" again.*
+ - The script won't exit and it's stuck on "[+] Stopping bridge.". what do i do?
+- *Fix: Force close the command prompt by going into Task Manager (via Ctrl+Shift+Esc or typing taskmgr in taskbar) and end task the current prompt. Re-open the "pre-init.bat" and run whichever script you ran last time. (e.g tester.py)*
+
+# Explanations
+*What does for example the version 11.301.05.04.709 mean really??*
+Here's a breakdown of how versions for these modems work:
+- 11 = the generation, 11 is the old generation of Cosmote modems, the newer generation ones start with 21.x or if it's a ZTE device, it starts with UTPS22.x.x.x
+- 301 = the hardware branch from Huawei (ZTE versions are completely different as shown in Note 3 at the Notes category)
+- 05.04 = minor updates/changes
+- 709 = carrier code, usually for Cosmote Romania it's 709 (note: for Vodafone or Telekom after ~2015, the end varies, Vodafone has .11 or .00 and Telekom has .55 or .426)
+
 
