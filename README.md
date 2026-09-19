@@ -45,6 +45,7 @@ Since the original servers, for the COSMOTE Connect 3G network are no longer wor
 ```
 XercesRe (main developer)
 ST3HEN (main developer #2)
+Ezio (Linux Tester)
 
 ```
 # Notes
