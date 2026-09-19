@@ -49,5 +49,7 @@ ST3HEN (main developer #2)
 ```
 # Notes
  - My COSMOTE Connect 3G client is version 11.301.05.04.709, the software may vary for other versions like v16.001 – v21.003.
- - It *might* not work with ZTE USB's since the software is meant for Huawei USB's, but if it won't work with ZTE devices, i will note them for future updating
+ - It *will* not work with ZTE USB's since the software is meant for Huawei USB's, but if it won't work with ZTE devices, i will note them for future updating
  - As shown above this note, again, for versions v2.7.2.89 (Birdstep) and/or BD_COSMOTEMF60V1.0.0B01 (WebUI), it *will* not work, but v11.1xx and above works.
+ - I am not sure if this software will work below Windows 10 (e.g. Windows 8.1, Windows 7, Windows XP) but again, updates will be happening for older versions too
+
