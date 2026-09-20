@@ -54,6 +54,7 @@ Ezio (Linux Tester)
  - As shown above this note, again, for versions v2.7.2.89 (Birdstep) and/or BD_COSMOTEMF60V1.0.0B01 (WebUI), it *will* not work, but v11.1xx and above works.
  - I am not sure if this software will work below Windows 10 (e.g. Windows 8.1, Windows 7, Windows XP) but again, updates will be happening for older versions too
  - The * you saw at the pre-install category, it means it might/will not work properly in this state since it is still a WIP patcher.
+ - This project will be ported to Linux soon.
 
 # Troubleshooting
  - Why isn't init.py loading correctly?
