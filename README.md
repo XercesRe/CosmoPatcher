@@ -7,7 +7,7 @@ Cosmote3GCPatcher is a utility designed to patch the COSMOTE Connect 3G applicat
 
 Before running the script, ensure you have the following installed and prepared:
 
-   - Python (minimum version 3.10)
+   - Python (minimum version 3.7)
 
    - COSMOTE Connect 3G (link should be in the releases tab)
 
